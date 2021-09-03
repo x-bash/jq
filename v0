@@ -6,5 +6,5 @@
 xrc static-build
 # . ../static-build/v0
 
-static_build_xrc jq
+static_build_init jq jq jq
 
